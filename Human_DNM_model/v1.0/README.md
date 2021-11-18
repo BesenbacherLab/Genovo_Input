@@ -1,6 +1,6 @@
 # kmerPaPa human de novo mutation model v1.0
 
-The Genovo input files in this directory created using [kmerPaPa](https://github.com/BesenbacherLab/kmerPaPa) on de novo mutations from 6 different studies:
+The Genovo input files in this directory are created using [kmerPaPa](https://github.com/BesenbacherLab/kmerPaPa) on /de novo/ mutations from 6 different studies:
 
 | Study                   | Trios | Autosomal SNV | Autosomal indels |
 |-------------------------|-------|---------------|------------------|
@@ -11,5 +11,9 @@ The Genovo input files in this directory created using [kmerPaPa](https://github
 | Yuen et al. 2017        |  1652 |        104948 |            16582 |
 | Turner et al. 2017      |  1032 |        109433 |             8036 |
 
-For detail see ...
+For details see ...
+
+[Download SNV model](https://github.com/besenbacher/Genovo_Input/raw/main/Human_DNM_model/v1.0/SNV_mutation_rate_model.txt)
+[Download indel model](https://github.com/besenbacher/Genovo_Input/raw/main/Human_DNM_model/v1.0/indel_mutation_rate_model.txt)
+
 
