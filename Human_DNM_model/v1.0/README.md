@@ -11,7 +11,7 @@ The Genovo input files in this directory are created using [kmerPaPa](https://gi
 | Yuen et al. 2017        |  1652 |        104948 |            16582 |
 | Turner et al. 2017      |  1032 |        109433 |             8036 |
 
-For details see ...
+For details see [A method to build extended sequence context models of point mutations and indels | bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.06.471476v1)
 
 [Download SNV model](https://github.com/besenbacher/Genovo_Input/raw/main/Human_DNM_model/v1.0/SNV_mutation_rate_model.txt)
 
